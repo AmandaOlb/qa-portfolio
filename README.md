@@ -9,7 +9,7 @@ A case study from a live, production-grade logistics platform, covering 9 findin
 
 **Skills demonstrated:** exploratory testing, functional testing, severity/priority triage, business logic testing, bug documentation
 
-### 2. [Skoob Bug Report](./skoob_bug_report.md)
+### 2. [Skoob Bug Report](./skoob-report.md)
 A self-initiated testing exercise on [Skoob](https://www.skoob.com.br/), a Brazilian book-tracking platform, demonstrating independent QA practice outside of a formal work context.
 
 **Skills demonstrated:** exploratory testing, self-directed QA practice, defect documentation

@@ -4,7 +4,7 @@ Manual QA Engineer with 2+ years of experience in defect tracking, functional an
 
 ## 📋 Case Studies
 
-### 1. [Exploratory & Functional Testing — Last-Mile Delivery Platform](./qa_case_study_delivery_platform.md)
+### 1. [Exploratory & Functional Testing — Last-Mile Delivery Platform](./last-mile-testing-case-study.md)
 A case study from a live, production-grade logistics platform, covering 9 findings ranging from a Critical business-logic vulnerability (payment bypass) to UX-level observations. Includes methodology, severity triage, and a reflection on testing patterns.
 
 **Skills demonstrated:** exploratory testing, functional testing, severity/priority triage, business logic testing, bug documentation
